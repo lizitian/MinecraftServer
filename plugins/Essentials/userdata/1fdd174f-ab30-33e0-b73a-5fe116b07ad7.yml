@@ -1,0 +1,31 @@
+lastAccountName: ztli
+timestamps:
+  login: 1440585928190
+  lastteleport: 1440587441316
+  logout: 1440589454224
+ipAddress: 192.168.1.102
+lastlocation:
+  world: world
+  x: -122.76786114573807
+  y: 67.0
+  z: 247.4531163121496
+  yaw: -40.64572
+  pitch: 6.5998983
+money: '9999999999999.0'
+logoutlocation:
+  world: world
+  x: -234.22423612337988
+  y: 64.0
+  z: 233.39467292179145
+  yaw: 274.33643
+  pitch: 49.049934
+homes:
+  home:
+    world: world
+    x: -126.38425148876814
+    y: 74.0
+    z: 255.72510829054
+    yaw: 204.9002
+    pitch: 63.59992
+afk: false
+godmode: true

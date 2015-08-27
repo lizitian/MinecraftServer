@@ -1,0 +1,20 @@
+lastAccountName: Neo
+timestamps:
+  login: 1440674001916
+  logout: 1440674053523
+  lastteleport: 1440502160610
+ipAddress: 192.168.1.100
+lastlocation:
+  world: world
+  x: -100.45057808949137
+  y: 67.0
+  z: 199.32736432971635
+  yaw: -88.50006
+  pitch: 21.0
+logoutlocation:
+  world: world
+  x: -123.49990555056998
+  y: 72.0
+  z: 238.91277682284158
+  yaw: -329.04956
+  pitch: 10.05005

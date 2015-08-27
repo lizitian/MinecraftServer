@@ -1,0 +1,30 @@
+lastAccountName: ctyi
+timestamps:
+  login: 1440673131294
+  logout: 1440674056023
+  lastteleport: 1440589348568
+ipAddress: 192.168.1.115
+lastlocation:
+  world: world
+  x: -150.6720154506399
+  y: 67.0
+  z: 218.32463238947093
+  yaw: -184.20464
+  pitch: 7.499953
+logoutlocation:
+  world: world
+  x: -120.23441179598214
+  y: 67.0
+  z: 237.35319544202227
+  yaw: 255.14258
+  pitch: 11.700158
+money: '9.0'
+homes:
+  home:
+    world: world
+    x: -126.46298128162695
+    y: 67.0
+    z: 234.88530770392728
+    yaw: 138.74588
+    pitch: 31.949991
+nickname: CuiTianyi
